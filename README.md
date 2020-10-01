@@ -9,5 +9,5 @@
 #### I am looking forward to joining a company, project or team that will leverage my combined knowledge in Databases as well as Python programming.
 
 - **Email:** laurent.esingle1@outlook.com
-- **LinkedIn:** 
+- **LinkedIn:** [Laurent Esingle](https://www.linkedin.com/in/laurent-esingle-7b9777137/)
 - **vQuery App:** [laurentesingle.github.io/vquery/](laurentesingle.github.io/vquery/)
