@@ -10,4 +10,3 @@
 
 - **Email:** laurent.esingle1@outlook.com
 - **LinkedIn:** [Laurent Esingle](https://www.linkedin.com/in/laurent-esingle-7b9777137/)
-- **vQuery App:** [laurentesingle.github.io/vquery/](laurentesingle.github.io/vquery/)
